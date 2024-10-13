@@ -82,3 +82,4 @@ jobs:
           "$RELEASE_VERSION_NAME"; then
             exit_on_error "Attach APKs to release failed for '$APK_VERSION_TAG' release."
           fi
+          
